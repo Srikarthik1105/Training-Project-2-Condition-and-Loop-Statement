@@ -44,7 +44,7 @@ class Condition_and_Loop_statement
         Console.ReadKey();
     }
 
-// 3. program to find out whether a given year is a leap year or not.
+// 3. Program to find out whether a given year is a leap year or not.
     public void Leapyear()
     {
         Console.Write("Enter the Year : ");
