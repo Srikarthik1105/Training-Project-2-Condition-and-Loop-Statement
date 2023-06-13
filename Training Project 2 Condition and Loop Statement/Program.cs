@@ -319,7 +319,7 @@ class Condition_and_Loop_statement
         Console.ReadKey();
     }
 
-// 18. Sharp program to calculate the factorial of a given number.
+// 18. Program to calculate the factorial of a given number.
     public void Factorial()
     {
         Console.Write("Give the Input : ");
